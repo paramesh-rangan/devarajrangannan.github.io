@@ -1,0 +1,22 @@
+body
+{
+    background-color: #181a1b;
+    color: #e8e6dc;
+}
+
+
+
+img
+{
+    margin-top: 30px;
+    width:100%;
+    height: auto;
+    opacity: 80%;
+}
+
+#name
+{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+}
